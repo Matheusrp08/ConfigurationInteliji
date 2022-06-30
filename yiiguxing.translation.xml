@@ -1,0 +1,23 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="-799" />
+    <option name="newTranslationDialogY" value="445" />
+    <histories>
+      <item value="Lawsuit Last History Simple Date" />
+      <item value="lawsuit Histories" />
+      <item value="Lawsuit History Query Filter Last Date" />
+      <item value="Matter History Details" />
+      <item value="adasd" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="3" />
+        <entry key="PORTUGUESE" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1656421770335" />
+  </component>
+</application>
