@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-799" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="upport for query by example (QBE). An Example takes a probe to define the example. Matching options and type safety can be tuned using" />
       <item value="Lawsuit Last History Simple Date" />
       <item value="lawsuit Histories" />
       <item value="Lawsuit History Query Filter Last Date" />
@@ -13,11 +14,11 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="PORTUGUESE" value="3" />
+        <entry key="PORTUGUESE" value="4" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656421770335" />
+    <option name="lastTrimTime" value="1657123767044" />
   </component>
 </application>
