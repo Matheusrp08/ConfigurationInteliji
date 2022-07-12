@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-799" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="ERROR: there is no unique constraint matching given keys for referenced table &quot;subscription&quot;" />
       <item value="HV000030: No validator could be found for constraint 'javax.validation.constraints.NotBlank' validating type 'br.adv.pol.centric.core.modules.combo.domain.ComboType'. Check configuration for 'type' at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getExceptionForNullValidator(ConstraintTree.java:116) at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.getInitializedConstraintValidator(ConstraintTree.java:162) at org.hibernate.validator.internal.engine.constraintvalidation.SimpleConstraintTree.validateConstraints(SimpleConstraintTree.java:54) at org.hibernate.validator.internal.engine.constraintvalidation.ConstraintTree.validateConstraints(ConstraintTree.java:75) at org.hibernate.validator.internal.metadata.core.MetaConstraint.doValidateConstraint(MetaConstraint.java:130) at org.hibernate.validator.internal.metadata.core.MetaConstraint.validateConstraint(MetaConstraint.java:123) at org.hibernate.validator.internal.engine.ValidatorImpl.validateMetaConstraint(ValidatorImpl.java:555) at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForSingleDefaultGroupElement(ValidatorImpl.java:518) at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForDefaultGroup(ValidatorImpl.java:488) at org.hibernate.validator.internal.engine.ValidatorImpl.validateConstraintsForCurrentGroup(ValidatorImpl.java:450) at org.hibernate.validator.internal.engine.ValidatorImpl.validateInContext(ValidatorImpl.java:400) at org.hibernate.validator.internal.engine.ValidatorImpl.validate(ValidatorImpl.java:172)" />
       <item value="upport for query by example (QBE). An Example takes a probe to define the example. Matching options and type safety can be tuned using" />
       <item value="Lawsuit Last History Simple Date" />
@@ -14,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="PORTUGUESE" value="4" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="PORTUGUESE" value="7" />
       </map>
     </option>
   </component>
