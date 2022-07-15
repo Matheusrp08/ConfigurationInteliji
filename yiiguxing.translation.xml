@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-799" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="usuarios" />
       <item value="stream" />
       <item value="map" />
       <item value="ERROR: there is no unique constraint matching given keys for referenced table &quot;subscription&quot;" />
@@ -18,7 +19,8 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="8" />
-        <entry key="PORTUGUESE" value="8" />
+        <entry key="PORTUGUESE" value="9" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
