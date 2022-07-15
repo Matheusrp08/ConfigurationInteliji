@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-799" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="println" />
       <item value="usuarios" />
       <item value="stream" />
       <item value="map" />
@@ -18,7 +19,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="PORTUGUESE" value="9" />
         <entry key="SPANISH" value="1" />
       </map>
