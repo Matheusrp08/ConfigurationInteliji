@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-799" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="create Link Between Combo And Subscriptions With Different Types Between Them" />
       <item value="println" />
       <item value="usuarios" />
       <item value="stream" />
@@ -19,13 +20,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="PORTUGUESE" value="9" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="PORTUGUESE" value="10" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657639740919" />
+    <option name="lastTrimTime" value="1658175728268" />
   </component>
 </application>
