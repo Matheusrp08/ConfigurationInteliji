@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-799" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="is Equal To" />
       <item value="equals" />
       <item value="Opportunity Products Value Summary" />
       <item value="id Opportunity" />
@@ -24,13 +25,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
-        <entry key="PORTUGUESE" value="12" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="PORTUGUESE" value="13" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658175728268" />
+    <option name="lastTrimTime" value="1658767295992" />
   </component>
 </application>
