@@ -4,10 +4,10 @@
     <option name="newTranslationDialogX" value="-799" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="id Opportunity" />
       <item value="is Equal To" />
       <item value="equals" />
       <item value="Opportunity Products Value Summary" />
-      <item value="id Opportunity" />
       <item value="Id Combo" />
       <item value="create Link Between Combo And Subscriptions With Different Types Between Them" />
       <item value="println" />
@@ -25,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
-        <entry key="PORTUGUESE" value="13" />
+        <entry key="ENGLISH" value="14" />
+        <entry key="PORTUGUESE" value="14" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
