@@ -4,6 +4,6 @@
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999999" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="RIGHT_MARGIN" value="300" />
+    <option name="RIGHT_MARGIN" value="900" />
   </codeStyleSettings>
 </code_scheme>
